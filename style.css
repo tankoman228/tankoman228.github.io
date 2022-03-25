@@ -1,17 +1,62 @@
 body {
-    margin: 300px;
-    border: solid red;
-    padding: 0 20px;
+    background-image: url("BG.png");
+/*    padding: 0 10px;*/
     align-content: center;
 }
 
+a {
+    color: black;
+    background-color: white;
+    border: solid black;
+
+}
+
+nav {
+    font-size: xx-large;
+    text-align: right;
+}
+
 h1 {
-    color: red;
+    margin: 2%;
+    color: black;
     text-align: center;
+    font-size: xx-large;
+}
+
+article {
+    margin: 3%;
+}
+
+p {
+    margin: 2%;
+    font-size: xx-large;
 }
 
 ul {
     color: black;
-    margin: 20px;
-    font-size: x-large;
+    margin: 2%;
+    font-size: xx-large;
+}
+
+.page {
+    border: solid 3px white;
+    margin: 10%;
+    background-color: aquamarine;
+}
+
+.navigator {
+    text-align: right;
+    background-color: aquamarine;
+    border: solid black;
+    padding: 1% 1%;
+}
+
+.head {
+    margin: 0;
+    padding: 0% 1%;
+    font-size: xx-large;
+    background-color:transparent;
+    border: unset;
+    color: darkblue;
+    float: left;
 }
