@@ -6,9 +6,12 @@ body {
 
 a {
     color: black;
+}
+
+.link {
+    color: black;
     background-color: white;
     border: solid black;
-
 }
 
 nav {
@@ -81,4 +84,8 @@ ul {
 
 .list {
     text-align: left;
+}
+
+.link2{
+    font-size: x-large;
 }
