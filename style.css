@@ -26,6 +26,11 @@ footer {
     margin: 1%;
 }
 
+img {
+    margin: auto;
+    display: block;
+}
+
 h1 {
     margin: 2%;
     color: black;
