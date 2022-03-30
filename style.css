@@ -29,12 +29,19 @@ footer {
 img {
     margin: auto;
     display: block;
-  height: auto;
-  width: auto;
-max-width: 80%;
+    height: auto;
+    width: auto;
+    max-width: 80%;
 }
 
 h1 {
+    margin: 2%;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2 {
     margin: 2%;
     color: black;
     text-align: center;
