@@ -33,6 +33,22 @@ img {
     width: 80%;
 }
 
+.img2 {
+    justify-content:center;
+    height: auto;
+    width: 45%;
+}
+
+.img3 {
+    justify-content: center;
+    height: auto;
+    width: 30%;
+}
+
+.img_parent {
+    display: flex;
+}
+
 h1 {
     margin: 2%;
     color: black;
