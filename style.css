@@ -30,8 +30,7 @@ img {
     margin: auto;
     display: block;
     height: auto;
-    width: auto;
-    max-width: 80%;
+    width: 80%;
 }
 
 h1 {
